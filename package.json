@@ -1,0 +1,27 @@
+{
+  "name": "ecbot",
+  "version": "1.0.0",
+  "description": "Hands-on lab for 女力新時代 #SheMeansBusniess 聊天機器人工作坊。",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "node --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyliaorachel/ECbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pyliaorachel/ECbot/issues"
+  },
+  "homepage": "https://github.com/pyliaorachel/ECbot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "config": "^2.0.1",
+    "express": "^4.16.3",
+    "request": "^2.88.0"
+  }
+}
