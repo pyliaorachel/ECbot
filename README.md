@@ -10,6 +10,8 @@ Hands-on lab for 女力新時代 #SheMeansBusniess 聊天機器人工作坊。
 
 ## 步驟
 
+![](https://github.com/pyliaorachel/ECbot/blob/master/img/flow.png?raw=true)
+
 1. 複製專案
     1. `Clone or download` > `Download ZIP`，解壓縮並以 VS Code 開啟專案
 2. 準備資料庫
