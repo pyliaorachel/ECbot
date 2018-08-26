@@ -26,4 +26,4 @@ Hands-on lab for 女力新時代 #SheMeansBusniess 聊天機器人工作坊。
 5. 執行
     1. 輸入指令 `npm start`
 
-若最後一步出現 error，請檢查重新程式碼。若沒有 error，也不代表程式碼完全正確，需要部署後進行測試，
+若最後一步出現 error，請檢查重新程式碼。若沒有 error，也不代表程式碼完全正確，需要部署後進行測試。
